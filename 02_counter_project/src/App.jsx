@@ -42,7 +42,7 @@ export default App
 //Hooks : Functions whose names start with use are called Hooks in React.Hooks allow function components to have access to state and other React features. Because of this, class components are generally no longer needed.
 
 //Rules for Hooks:
-// Only call Hooks at the top level
+// Only call Hooks at the top level inside React Function
 // Only call Hooks from React functions
 
 // It’s not supported to call Hooks (functions starting with USE) in any other cases, for example:
